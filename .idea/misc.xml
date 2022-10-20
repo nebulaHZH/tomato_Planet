@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/drawable/radius.xml" value="0.181" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/drawable/radius2.xml" value="0.24" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/drawable/radius3.xml" value="0.2395" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/drawable/radius_background.xml" value="0.2355" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/drawable/radius_stright.xml" value="0.2405" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/activity_plan.xml" value="0.45521601685985247" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/create_user_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/data_actitvity.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/data_actitvty.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/data_activity.xml" value="0.4" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/frame_1.xml" value="0.536" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/layout.xml" value="0.1125" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/layout/more_option.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/menu/menu_time.xml" value="0.4" />
+        <entry key="..\:/Users/Administrator/Desktop/tomatoPlanet/app/src/main/res/xml/time_menu.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
